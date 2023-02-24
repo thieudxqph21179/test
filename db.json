@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "productName": "Thiềuu",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg",
+      "id": 13
+    },
+    {
+      "productName": "njknjk",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "productName": "jjink",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg"
+    }
+  ]
+}
